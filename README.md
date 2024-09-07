@@ -1,5 +1,5 @@
 # cso_contextual
-contextual layers for cso dashboard
+These are layers used for CGIAR's Climate Security Observatory Dashboard: https://cso.cgiar.org/#/CountryProfiles . This repo specifically contains contextual data used within this dashboard.
 
 <b>country contents: </b>
 
